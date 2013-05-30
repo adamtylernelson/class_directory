@@ -14,28 +14,34 @@ a:hover{
 
 .wrapper {
 	width:100%;
-	max-width: 600px;
+	max-width: 960px;
 	margin: 0 auto;
 }
 
 .responsiveimg {
-	width: 100%;
+	width: 90%;
 	max-width: 600px;
-	transition: width 2s, height 2s;
+	transition: width 1s, height 1s;
 }
 
 .responsiveimg:hover {
-	width:110%;
-	height:110%;
+	width: 110%;
+	height: 110%;
 }
 
 #headerimg {
-	width:100%;
+	width: 80%;
 	max-width: 300px;
 	float: right;
 	border-style: inset;
 	border-color: orange;
+	transition: width 1s, height 1s;
 
+}
+
+.headerimg:hover {
+	width: 110%;
+	height: 110%;
 }
 
 @media all and (max-width:500px){

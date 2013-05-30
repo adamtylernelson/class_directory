@@ -30,18 +30,24 @@ Tasks
 
 Level 1
 -------
-1. Make links a different color when hovered over
+1. Make links a different color when hovered over 
+DONE
 2. Add a border to your profile pic
+DONE
 3. Embed your favorite YouTube video
+DONE
 4. Commit and push changes
-
+DONE
 
 
 Level 2
 -------
 1. Use CSS3 transitions
+DONE
 2. Use a webfont
+DONE
 3. Use the HTML dictionary tag correctly
+PASS
 4. Commit and push changes
 
 
